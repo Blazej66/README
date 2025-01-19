@@ -29,3 +29,5 @@ Hi, I'm Blazej. You might wonder what do I do? It's simple, still sitting next t
 |    Good    |   Windows   |
 
 </details>
+
+### My Projects 
