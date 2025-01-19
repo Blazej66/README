@@ -23,7 +23,8 @@ Hi, I'm Blazej. You might wonder what do I do? It's simple, still sitting next t
  
 <summary>My knowledge of Operation Systems based on Administration</summary>
 
-| Knowledge  |      OS     |
+ | Knowledge  |      OS     |
+|-----------:|-------------|
 |  Very Good |    LINUX    |
 |    Good    |   Windows   |
 
