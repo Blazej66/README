@@ -19,7 +19,6 @@ Hi, I'm Blazej. You might wonder what do I do? It's simple, still sitting next t
 
 </details>
 
-
 <details>
  
 <summary>My knowledge of Operation Systems based on Administration</summary>
