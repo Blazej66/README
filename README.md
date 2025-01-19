@@ -4,9 +4,9 @@
  <img alt="YOUR-ALT-TEXT" src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/07/anya-from-spy-x-family.jpg?q=50&fit=crop&w=1140&h=&dpr=1.5">
 </picture>
 
-## About me 
+## About me 👾
 
-Hi, I'm Blazej. You might wonder what do I do? It's simple, still sitting next to my desk since I was 12. 
+Hi, I'm Blazej. Here I did make a brief summary about myself and things I do, You are more than welcome to check my work, ENJOY!🍀 
 
 <details>
 <summary>My top languages</summary>
